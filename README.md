@@ -1,5 +1,5 @@
 # MybatisPlus-mp01
-MP学习相关源码
+MP学习相关源码，MP版本为3.4.2
 
 ## 相关数据库的表
 CREATE TABLE `tbl_employee` (
