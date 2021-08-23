@@ -1,7 +1,7 @@
 # MybatisPlus-mp01
 MP学习相关源码
 
-# 相关数据库的表
+## 相关数据库的表
 CREATE TABLE `tbl_employee` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `last_name` varchar(50) DEFAULT NULL,
