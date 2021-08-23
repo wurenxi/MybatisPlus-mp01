@@ -9,4 +9,4 @@ CREATE TABLE `tbl_employee` (
   `gender` char(1) DEFAULT NULL,
   `age` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB CHARSET=utf8
+) ENGINE=InnoDB CHARSET=utf8;
